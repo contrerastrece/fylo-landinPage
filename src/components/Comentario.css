@@ -1,0 +1,13 @@
+.container-test{
+  display: flex;
+  /* gap:1rem; */
+}
+.test{
+  background-color: var(--dark-blue-testimonials);
+  border-radius:0.5rem;
+}
+.profile-img{
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
